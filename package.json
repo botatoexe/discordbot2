@@ -1,0 +1,30 @@
+{
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "name": "discordbot2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "^0.10.0",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "install": "^0.13.0",
+    "npm": "^6.14.8",
+    "save": "^2.4.0",
+    "ytdl-core": "^3.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
